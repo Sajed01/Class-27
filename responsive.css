@@ -108,6 +108,9 @@
 }
 
 @media ( max-width: 510px) {
+    .banner_section {
+        padding: 88px 0px;
+    }
     .logo_section {
         width: 100%;
     }
@@ -121,6 +124,12 @@
     .menu_section ul li a {
         padding: 10px 5px;
         margin-top: -18px;
+    }
+}
+
+@media ( max-width: 463px) {
+    .item1 {
+        width: 100%;
     }
 }
 
@@ -171,6 +180,10 @@
     }
     .footer_section h6 {
         font-size: 13px;
+    }
+    .item1 {
+        width: 100%;
+        margin-bottom: 40px;
     }
 }
 

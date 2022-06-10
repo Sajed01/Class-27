@@ -128,7 +128,7 @@
 }
 
 @media ( max-width: 463px) {
-    .item1 {
+    .item1{
         width: 100% !important;
     }
 }
